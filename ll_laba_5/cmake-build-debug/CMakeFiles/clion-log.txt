@@ -1,8 +1,0 @@
-/home/denis/clion-2018.2.4/clion-2018.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/denis/CLionProjects/ll_laba_5
--- Boost version: 1.65.1
--- Found the following Boost libraries:
---   system
---   filesystem
--- Configuring done
--- Generating done
--- Build files have been written to: /home/denis/CLionProjects/ll_laba_5/cmake-build-debug

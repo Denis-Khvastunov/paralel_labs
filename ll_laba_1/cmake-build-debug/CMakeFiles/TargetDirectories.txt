@@ -1,3 +1,0 @@
-/home/denis/CLionProjects/ll_laba_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/denis/CLionProjects/ll_laba_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/denis/CLionProjects/ll_laba_1/cmake-build-debug/CMakeFiles/ll_laba_1.dir
